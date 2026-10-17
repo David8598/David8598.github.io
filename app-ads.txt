@@ -1,4 +1,1 @@
-# app-ads.txt for Roadster (Bogdan Suluzaki)
-# Replace pub-XXXXXXXXXXXXXXXX with your AdMob publisher ID (AdMob -> Settings -> Account information),
-# then remove the "#" at the start of the next line.
-# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+google.com, pub-7985654356749501, DIRECT, f08c47fec0942fa0
